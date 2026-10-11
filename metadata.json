@@ -1,0 +1,7 @@
+{
+  "name": "Vexora - Titanium Cyber Commerce",
+  "description": "Ultra-engineered futuristic gadgets, viral tech hardware, and precision smart devices with zero-latency global delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
